@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @martinhasenbalg
+- 👋 Hi, I’m Martin Hasenbalg
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev on Coderhouse (ARG)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me at marhasenbalg@gmail.com
 
 <!---
 martinhasenbalg/martinhasenbalg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
