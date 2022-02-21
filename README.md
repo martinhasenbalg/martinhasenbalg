@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Martin Hasenbalg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Dev on Coderhouse (ARG)
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me at marhasenbalg@gmail.com
+- 👋 Hola, mi nombre es Martin Hasenbalg
+- 👀 Mi interes principar es reforzar mi mindset agil para adaptarme al futuro.
+- 🌱 Actualmente, cursando la carrera de Certified Tech Developer en Digital House (ARG)
+- 📫 Me pueden contactar en martinhasen2@yahoo.com.ar
 
-<!---
-martinhasenbalg/martinhasenbalg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
